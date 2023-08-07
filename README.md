@@ -13,7 +13,7 @@ This is a rigorous two-week immersive (100 hour) bootcamp. This bootcamp consist
 * Learn the basics of machine learning in Python: linear and logistic regression, dimensionality reduction, clustering, decision trees, back propagation learning.
 
 ## Planned Readings:
-All of the below readings are available on the class GitHub page at:
+All of the below readings are available on the Bootcamp Readings page [here](https://github.com/voytek/AI-READI-Bootcamp/tree/main/Readings):
 
 * Berisha _et al._, Digital medicine and the curse of dimensionality, _npj Digital Medicine_ 2021
 * Ezer & Whitaker, Data science for the scientific life cycle, _eLife_ 2019
@@ -21,4 +21,4 @@ All of the below readings are available on the class GitHub page at:
 * Rumelhart, Hinton, Williams, from Parallel Distributed Processing Explorations in the Microstructure of Cognition: Foundations, 1987
 * Wilkinson _et al._, Comment: The FAIR Guiding Principles for scientific data
 management and stewardship, Scientific Data 2016
-* Zou & Schiebinger., Design AI so that it’s fair, _Nature_ 2018
+* Zou & Schiebinger, Design AI so that it’s fair, _Nature_ 2018
