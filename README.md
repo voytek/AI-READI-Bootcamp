@@ -22,3 +22,10 @@ All of the below readings are available on the Bootcamp Readings page [here](htt
 * Wilkinson _et al._, Comment: The FAIR Guiding Principles for scientific data
 management and stewardship, Scientific Data 2016
 * Zou & Schiebinger, Design AI so that it’s fair, _Nature_ 2018
+
+## Helpful links:
+These will help orient you with very basic technical topics before the bootcamp:
+
+* [Introduction to Python](https://cogs18.github.io/intro.html)
+* [Git terminology](https://voyteklab.com/git/git-primer/)
+* [Setting up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
