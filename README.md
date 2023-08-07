@@ -16,6 +16,7 @@ This is a rigorous two-week immersive (100 hour) bootcamp. This bootcamp consist
 All of the below readings are available on the Bootcamp Readings page [here](https://github.com/voytek/AI-READI-Bootcamp/tree/main/Readings):
 
 * Berisha _et al._, Digital medicine and the curse of dimensionality, _npj Digital Medicine_ 2021
+* Bishop, ch. 1, intro to ch. 9 and section 9.1, intro to ch. 12 and section 12.1, and appendix C in Pattern recognition and machine learning, 2006
 * Ezer & Whitaker, Data science for the scientific life cycle, _eLife_ 2019
 * Obermeyer _et al._, Dissecting racial bias in an algorithm used to manage the health of populations, _Science_ 2019
 * Rumelhart, Hinton, Williams, chapter 8 in _Parallel Distributed Processing Explorations in the Microstructure of Cognition: Foundations_, 1987
