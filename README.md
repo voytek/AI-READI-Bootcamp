@@ -8,6 +8,7 @@ These are heavily adapted from UC San Diego's COGS 18: Introduction to Python cl
 Right now we're showing off push and pull for GitHub demo.
 <<<<<<< HEAD
 We are testing something. One more time.
+Testing again. 123.
 =======
 Monday afternoon demo change LH
 
