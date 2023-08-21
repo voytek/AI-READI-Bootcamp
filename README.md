@@ -21,7 +21,7 @@ All of the below readings are available on the Bootcamp Readings page [here](htt
 * Obermeyer _et al._, Dissecting racial bias in an algorithm used to manage the health of populations, _Science_ 2019
 * Rumelhart, Hinton, Williams, ch. 8 in _Parallel Distributed Processing Explorations in the Microstructure of Cognition: Foundations_, 1987
 * Strang, ch. 6 in _Introduction to linear algebra_, 2016
-    * Strang's lectures on Linear Algebra are also available on YouTube [here](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D).
+    * Strang's lectures on Linear Algebra are also available on YouTube [here](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 * Wilkinson _et al._, Comment: The FAIR Guiding Principles for scientific data
 management and stewardship, Scientific Data 2016
 * Zou & Schiebinger, Design AI so that it's fair, _Nature_ 2018
