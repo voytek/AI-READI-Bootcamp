@@ -18,7 +18,7 @@ Monday afternoon demo change LH
 >>>>>>> 295a8dff189c5f23459adc4c4d157f422d880161
 ## BOOTCAMP OBJECTIVES
 * Learn basic data science principles and pitfalls
-* Learn how to use GitHub version control and project management tools
+* Learn how to use GitHub version control and project management tools!!!!!!
 * Learn basic Python programming (including writing "Pythonic" code)
 * Learn how to use Jupyter for prototyping and data visualization
 * Learn how to use an integrated development environments (IDEs) for more formal software development
