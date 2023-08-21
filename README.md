@@ -1,11 +1,21 @@
-# UC San Diego | AI-READI Bootcamp
+# Materials
 
-This is a rigorous two-week immersive (100 hour) bootcamp. This bootcamp consists of a combination of didactic lectures and hands-on tutorials and lab exercises using Python. You will be introduced to a basic data science workflow, including software version control in GitHub, rapid prototyping and data visualization in Jupyter, statistical methods, data models, data wrangling/processing, and a brief introduction to machine learning and AI.
+Materials for the UC San Diego AI-READI Bootcamp..
 
+<<<<<<< HEAD
+These are heavily adapted from UC San Diego's COGS 18: Introduction to Python class created by [Thomas Donoghue](https://github.com/TomDonoghue) and updated by [Shannon Ellis](https://github.com/ShanEllis).
+=======
 Right now we're showing off push and pull for GitHub demo.
+<<<<<<< HEAD
+We are testing something. One more time.
+Testing again. 123.
+=======
 Monday afternoon demo change LH
 
+>>>>>>> 295a8dff189c5f23459adc4c4d157f422d880161
 
+<<<<<<< HEAD
+>>>>>>> 295a8dff189c5f23459adc4c4d157f422d880161
 ## BOOTCAMP OBJECTIVES
 * Learn basic data science principles and pitfalls
 * Learn how to use GitHub version control and project management tools
@@ -36,5 +46,11 @@ These will help orient you with very basic technical topics before the bootcamp:
 * [Introduction to Python](https://cogs18.github.io/intro.html)
 * [Git terminology](https://voyteklab.com/git/git-primer/)
 * [Setting up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+<<<<<<< HEAD
 
 
+=======
+=======
+[![Site](https://img.shields.io/static/v1.svg?label=website&message=link&color=informational)](https://cogs18.github.io/materials/00-Introduction)
+>>>>>>> 7119950058faa3a131e86b113f736e51c0000a8a
+>>>>>>> b52111c0f62877d3c356ef6912167323ca4ee269
