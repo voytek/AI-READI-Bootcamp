@@ -1,6 +1,7 @@
 # Materials
 
 Materials for the UC San Diego AI-READI Bootcamp..
+It took a while to figure this out!
 
 <<<<<<< HEAD
 These are heavily adapted from UC San Diego's COGS 18: Introduction to Python class created by [Thomas Donoghue](https://github.com/TomDonoghue) and updated by [Shannon Ellis](https://github.com/ShanEllis).
