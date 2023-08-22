@@ -3,12 +3,8 @@
 This is a rigorous two-week immersive (100 hour) bootcamp. This bootcamp consists of a combination of didactic lectures and hands-on tutorials and lab exercises using Python. You will be introduced to a basic data science workflow, including software version control in GitHub, rapid prototyping and data visualization in Jupyter, statistical methods, data models, data wrangling/processing, and a brief introduction to machine learning and AI.
 Can I push?
 Right now we're showing off push and pull for GitHub demo.
-<<<<<<< HEAD
 Demo Tuesday morning Anna test
-=======
-LH try
->>>>>>> e91312d1fff8753e62762de7ae14609bacd00d80
-
+Trying again
 ## BOOTCAMP OBJECTIVES
 * Learn basic data science principles and pitfalls
 * Learn how to use GitHub version control and project management tools
