@@ -4,6 +4,8 @@ This is a rigorous two-week immersive (100 hour) bootcamp. This bootcamp consist
 
 Right now we're showing off push and pull for GitHub demo.
 
+Anna edit
+
 ## BOOTCAMP OBJECTIVES
 * Learn basic data science principles and pitfalls
 * Learn how to use GitHub version control and project management tools
