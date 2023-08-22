@@ -1,7 +1,7 @@
 # UC San Diego | AI-READI Bootcamp
 
 This is a rigorous two-week immersive (100 hour) bootcamp. This bootcamp consists of a combination of didactic lectures and hands-on tutorials and lab exercises using Python. You will be introduced to a basic data science workflow, including software version control in GitHub, rapid prototyping and data visualization in Jupyter, statistical methods, data models, data wrangling/processing, and a brief introduction to machine learning and AI.
-
+Can I push?
 Right now we're showing off push and pull for GitHub demo.
 <<<<<<< HEAD
 Demo Tuesday morning Anna test
@@ -19,7 +19,7 @@ LH try
 * Learn statistics in Python: frequentist methods, non-parametric statistics, etc.
 * Learn the basics of machine learning in Python: linear and logistic regression, dimensionality reduction, clustering, decision trees, back propagation learning.
 
-## Planned Readings:
+### Planned Readings:
 All of the below readings are available on the Bootcamp Readings page [here](https://github.com/voytek/AI-READI-Bootcamp/tree/main/Readings):
 
 * Berisha _et al._, Digital medicine and the curse of dimensionality, _npj Digital Medicine_ 2021
