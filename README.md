@@ -20,6 +20,7 @@ All of the below readings are available on the Bootcamp Readings page [here](htt
 * Ezer & Whitaker, Data science for the scientific life cycle, _eLife_ 2019
 * Obermeyer _et al._, Dissecting racial bias in an algorithm used to manage the health of populations, _Science_ 2019
 * Rumelhart, Hinton, Williams, ch. 8 in _Parallel Distributed Processing Explorations in the Microstructure of Cognition: Foundations_, 1987
+* Rumelhart, Hinton, Williams, ch. 9 in _Parallel Distributed Processing Explorations in the Microstructure of Cognition: Foundations_, 1987
 * Strang, ch. 6 in _Introduction to linear algebra_, 2016
     * Strang's lectures on Linear Algebra are also available on YouTube [here](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 * Wilkinson _et al._, Comment: The FAIR Guiding Principles for scientific data
