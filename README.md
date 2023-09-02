@@ -33,4 +33,3 @@ These will help orient you with very basic technical topics before the bootcamp:
 * [Introduction to Python](https://cogs18.github.io/intro.html)
 * [Git terminology](https://voyteklab.com/git/git-primer/)
 * [Setting up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-Test
